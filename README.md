@@ -1,6 +1,6 @@
 # npmtest-weex-toolkit
 
-#### test coverage for  [weex-toolkit (v1.0.5)](https://github.com/weexteam/weex-toolkit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-weex-toolkit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-weex-toolkit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-weex-toolkit.svg)](https://travis-ci.org/npmtest/node-npmtest-weex-toolkit)
+#### basic test coverage for  [weex-toolkit (v1.0.5)](https://github.com/weexteam/weex-toolkit#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-weex-toolkit.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-weex-toolkit) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-weex-toolkit.svg)](https://travis-ci.org/npmtest/node-npmtest-weex-toolkit)
 
 #### Weex CLI Toolkit
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-weex-toolkit/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-weex-toolkit/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-weex-toolkit/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-weex-toolkit/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-weex-toolkit/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-weex-toolkit/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-weex-toolkit/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-weex-toolkit/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-weex-toolkit/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-weex-toolkit/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-weex-toolkit/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-weex-toolkit/build/coverage.html/index.html)
 
